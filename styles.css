@@ -35,7 +35,7 @@ a{
   color: white;
   text-decoration: none;
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
 }
 
