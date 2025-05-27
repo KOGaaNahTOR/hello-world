@@ -16,7 +16,7 @@ main{
   width: 80vw;
   height: 70vh;
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
   align-items: center;
   padding-top: 5vh;
   padding-bottom: 5vh;
