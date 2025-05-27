@@ -9,6 +9,7 @@ body{
   align-items: center;
   font-family: "Faculty Glyphic", sans-serif;
   background: #505050;
+  color: white
 }
 main{
   width: 80vw;
@@ -28,3 +29,12 @@ a>img{
   height: 5vw;
   background-szie: 100%;
 }
+a{
+  color: white;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
