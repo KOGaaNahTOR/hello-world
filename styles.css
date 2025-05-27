@@ -38,5 +38,8 @@ a{
   justify-content: space-between;
   align-items: center;
 }
+#itch{
+  filter: invert(1);
+}
 
 
