@@ -18,6 +18,9 @@ main{
   padding-bottom: 5vh;
   flex-direction: column;
 }
+main>*{
+  margin: 2vw;
+}
 a>img{
   width: 5vw;
   height: 5vw;
