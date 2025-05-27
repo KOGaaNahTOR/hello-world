@@ -16,4 +16,5 @@ main{
   align-items: center;
   padding-top: 5vh;
   padding-bottom: 5vh;
+  flex-direction: column;
 }
