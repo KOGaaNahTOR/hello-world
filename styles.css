@@ -21,7 +21,7 @@ main{
   background: #101010;
 }
 main>*{
-  margin: 2vw;
+  margin: 0.5vw;
 }
 a>img{
   width: 5vw;
