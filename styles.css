@@ -12,6 +12,7 @@ body{
   color: white
 }
 main{
+  margin-top: 5vh;
   width: 80vw;
   display: flex;
   justify-content: center;
@@ -20,6 +21,7 @@ main{
   padding-bottom: 5vh;
   flex-direction: column;
   background: #101010;
+  border-radius: 20px;
 }
 main>*{
   margin: 0.5vw;
