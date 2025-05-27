@@ -8,6 +8,7 @@ body{
   justify-content: center;
   align-items: center;
   font-family: "Faculty Glyphic", sans-serif;
+  background: #505050;
 }
 main{
   width: 80vw;
@@ -17,6 +18,7 @@ main{
   padding-top: 5vh;
   padding-bottom: 5vh;
   flex-direction: column;
+  background: #101010;
 }
 main>*{
   margin: 2vw;
