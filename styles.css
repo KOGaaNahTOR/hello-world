@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Faculty+Glyphic&display=swap');
 * {
   margin:0px;
   padding:0px;
@@ -6,6 +7,7 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
+  font-family: "Faculty Glyphic", sans-serif;
 }
 main{
   width: 80vw;
