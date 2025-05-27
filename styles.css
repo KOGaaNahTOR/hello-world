@@ -18,3 +18,8 @@ main{
   padding-bottom: 5vh;
   flex-direction: column;
 }
+a>img{
+  width: 5vw;
+  height: 5vw;
+  background-szie: 100%;
+}
