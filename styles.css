@@ -37,6 +37,7 @@ a{
   display: flex;
   justify-content: space-between;
   align-items: center;
+  width: 70%;
 }
 #itch{
   filter: invert(1);
